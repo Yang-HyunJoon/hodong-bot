@@ -8,6 +8,7 @@ import random
 import openpyxl
 import datetime
 import command
+import os
 
 
 
@@ -294,4 +295,5 @@ async def on_message(message):
         ramenresult = ramenchoice[ramennumber-1]
         await client.send_message(message.channel, ramenresult)
 
+access_token = os.environ["BOT_TOKEN"]
 client.run('NTUxNDAwMjMzOTk3Njk3MDI2.D1zN6g.99cc_pP4WMB-dG32_DWyq5HTGSQ')
