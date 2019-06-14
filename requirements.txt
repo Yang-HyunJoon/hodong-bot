@@ -1,0 +1,10 @@
+discord.py==0.16.12
+commands.py==0.16.12
+Bot.py==0.16.12
+asyncio.py==0.16.12
+aiohttp.py==0.16.12
+string.py==0.16.12
+random.py==0.16.12
+openpyxl.py==0.16.12
+datetime.py==0.16.12
+command.py==0.16.12
