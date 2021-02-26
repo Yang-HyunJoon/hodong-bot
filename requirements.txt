@@ -2,7 +2,7 @@ discord.py==0.16.12
 commands==0.16.12
 Bot==0.16.12
 asyncio==0.16.12
-aiohttp==0.16.12
+aiohttp==3.7.4
 string==0.16.12
 random==0.16.12
 openpyxl==0.16.12
